@@ -1,7 +1,8 @@
-Write a function that returns an array with all the numbers from 1 to 255. You may use the push() function for this exercise.
+/*Write a function that returns an array with all the numbers from 1 to 255. You may use the push() function for this exercise.
 Escribe una funcion que retorne un arreglo junto a todos los numeros desde el 1 al 255. Tu puedes usar la funcion push() para este ejercicios.
+*/
 
-Option1
+//Option1
 
 function get_array() {
       var arr = [];
@@ -13,7 +14,7 @@ function get_array() {
     
 }
 
-Option2
+//Option2
 
 function get_array() {
       
