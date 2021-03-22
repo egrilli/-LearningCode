@@ -1,7 +1,7 @@
-Write a function that would get the sum of all the even numbers from 1 to 1000. You may use a modulus operator for this exercise.
-Escribe una función que obtenga la suma de todos los números pares del 1 al 1000. Puedes usar un operador de módulo (%) para este ejercicio.
+//Write a function that would get the sum of all the even numbers from 1 to 1000. You may use a modulus operator for this exercise.
+//Escribe una función que obtenga la suma de todos los números pares del 1 al 1000. Puedes usar un operador de módulo (%) para este ejercicio.
 
-Option 1
+//Option 1
 
 function sum_even_numbers(){
 
@@ -18,7 +18,7 @@ while(i<=1000) {
 }
 
 
-Option 2 
+//Option 2 
 
 function sum_even_numbers(){
 
