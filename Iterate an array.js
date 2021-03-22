@@ -1,6 +1,5 @@
-Write a function that returns the sum of all the values within an array. (e.g. [1,2,5] returns 8, [-5,2,5,12] returns 14)
-
-Escribe una función que devuelva la suma de todos los valores dentro de una matriz. (p. ej., [1,2,5] devuelve 8, [-5,2,5,12] devuelve 14)
+//Write a function that returns the sum of all the values within an array. (e.g. [1,2,5] returns 8, [-5,2,5,12] returns 14)
+//Escribe una función que devuelva la suma de todos los valores dentro de una matriz. (p. ej., [1,2,5] devuelve 8, [-5,2,5,12] devuelve 14)
 
 
 function iterArr(arr) {
@@ -16,7 +15,7 @@ function iterArr(arr) {
 
 
 
-E.G 
+//E.G 
 
 function iterArr(arr) {
 
